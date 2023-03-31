@@ -1,10 +1,10 @@
 # dev.mentor React workshop
 
-In this project you will build a searchable list of country cards with Covid-19 statistics and on the way you will learn how to apply Material-UI components, how to make requests with a help of React-Query library, using React-Router to navigate between the screens, and all this using the most popular library for building interactive user interfaces - React.
+This project is a searchable list of country cards with Covid-19 statistics. You will learn how to apply Material-UI components, make requests with React-Query library, use React-Router to navigate between screens, and use React - the most popular library for building interactive user interfaces.
 
-## Before start
+## Getting started
 
-Please clone this repository and run `npm install` before starting the project.
+To get started, clone this repository and run `npm install` to install the necessary dependencies.
 
 ## Available Scripts
 
